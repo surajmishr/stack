@@ -1,16 +1,26 @@
 
-Explanation of the methods:
+# Explanation of the methods:
 
-is_empty(): Checks if the stack is empty.
-push(item): Adds an item to the top of the stack.
-pop(): Removes and returns the item at the top of the stack.
-peek(): Returns the item at the top of the stack without removing it.
-size(): Returns the number of elements in the stack.
-In the example usage, we create a stack object, push three elements onto the stack, peek at the top element, pop two elements, and check the size of the stack.
-
-
+# is_empty(): Checks if the stack is empty.
+# push(item): Adds an item to the top of the stack.
+# pop(): Removes and returns the item at the top of the stack.
+# peek(): Returns the item at the top of the stack without removing it.
+# size(): Returns the number of elements in the stack.
+# In the example usage, we create a stack object, push three elements onto the stack, peek at the top element, pop two elements, and check the size of the stack.
 
 
+# Last-In, First-Out (LIFO
+
+   Top
+---------
+|   3   |
+---------
+|   2   |
+---------
+|   1   |
+---------
+  Bottom
+ top in first out 
 
 
 
